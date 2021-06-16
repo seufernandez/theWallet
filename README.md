@@ -30,6 +30,8 @@ $ yarn dev:server
 
 The app will be available for access on your browser at `http://localhost:3333`
 
+I recommend you to use Insomnia or Postman to run the Application 🧡
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
